@@ -80,6 +80,10 @@ chmod 400 ~/myteam
 
 ![photo_5987695585202912771_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/cbaf5350-aeb6-4cc1-90af-54de90a1156f)
 
+14-su islam
+
+![photo_5987695585202912792_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/efbf2a4e-2277-4d6a-8504-41903f19c834)
+
 
 15-sudo cd ~/myteam
 
