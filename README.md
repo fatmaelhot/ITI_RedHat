@@ -23,3 +23,48 @@ rmdir: to remove directory
 12-man passwod
 13-man -K
 
+--------------------------------------------------
+Lab2
+-------------
+
+1-sudo useradd -c "islam asker" -m islam
+sudo passwd islam
+
+
+2-sudo useradd -c "Bad User" -m baduser
+sudo passwd baduser
+
+3-sudo groupadd -g 30000 pgroup
+
+4-sudo groupadd -g 20000 badgroup
+
+5-sudo usermod -aG pgroup islam
+
+6-sudo passwd islam
+
+7-sudo chage -M 30 islam
+
+8-sudo usermod -L baduser
+
+9-sudo userdel -r baduser
+
+10-sudo groupdel baduser
+
+13-mkdir ~/myteam
+chmod 400 ~/myteam
+
+15-sudo cd ~/myteam
+
+16-1-sudo touch oldpasswd
+chmod u=rw,g=wx,o=x oldpasswd
+chmod 711 oldpasswd
+
+16-2-16 -2
+Default permissions for files: 666 (rw-rw-rw-)
+Default permissions for directories: 777 (rwxrwxrwx)
+
+16-3-umask 077
+mkdir testdir
+touch test
+
+
