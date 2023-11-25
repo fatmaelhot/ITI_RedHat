@@ -29,6 +29,7 @@ Lab2
 
 1-sudo useradd -c "islam asker" -m islam
 sudo passwd islam
+![photo_5987695585202912751_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/38af4ac1-ba78-4467-94aa-42bc806f0079)
 
 
 2-sudo useradd -c "Bad User" -m baduser
