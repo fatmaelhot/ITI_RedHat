@@ -34,12 +34,18 @@ sudo passwd islam
 
 2-sudo useradd -c "Bad User" -m baduser
 sudo passwd baduser
+![photo_5987695585202912751_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/ca414f9b-5a19-42ca-ba4a-9e5dfbe6a5c4)
+
 
 3-sudo groupadd -g 30000 pgroup
+![photo_5987695585202912753_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/f3c64952-16d7-4f6b-ba2b-1895c24354ce)
 
 4-sudo groupadd -g 20000 badgroup
+![photo_5987695585202912754_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/60d86067-8458-4a39-8b26-a538d0a1c691)
+
 
 5-sudo usermod -aG pgroup islam
+![photo_5987695585202912758_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/0dfd6b33-235f-45ec-b26a-8295274fdbbe)
 
 6-sudo passwd islam
 
