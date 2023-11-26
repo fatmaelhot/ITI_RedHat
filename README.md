@@ -146,5 +146,16 @@ touch test
 
 ![photo_5987695585202912782_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/63fd8480-f323-44ab-b781-2fe0f1107d63)
 
+----------------------------------------------------------------------
+Lab 5
+-------
+
+1-compress file
+gzip -v file1
+zip -v file2
+
+
+
+
 
 
