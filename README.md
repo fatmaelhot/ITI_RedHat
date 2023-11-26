@@ -6,9 +6,20 @@ more: display output one screen at one time (page by page)
 rmdir: to remove directory 
 4-/home --> mkdir dir1 doc
 /home/dir1 --> mkdir dir11 dir12
+
+![photo_5987695585202912862_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/a9e3c039-04bd-48e0-8bea-292b651e86f4)
+
 /home/doc --> touch mycv
 /home/dir1/dir11/ --> touch file1
+
+![photo_5987695585202912863_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/53d2ab06-ea20-4b42-bb2d-9a6b94feba84)
+
+
 4-a-rmdir dir11
+
+
+![photo_5987695585202912865_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/fff4e6a4-0869-40d4-9b98-8312af216aeb)
+
 4-b- rmdir -p
 4-c- home
 ./home
@@ -16,12 +27,12 @@ rmdir: to remove directory
 5-cp etc/passwod  home/mypasswod
 6-mv mypasswd oldpasswd
 7-../../home or cd /home   or cd ~home or cd-home 
-8-ls w*
-9-head -4 etc/passwod
-10-rail -7 etc/passwod
-11- man -a passwod
-12-man passwod
-13-man -K
+8-ls /usr/bin/w*
+9-head -n 4 /etc/passwd
+10-tail -n 7 /etc/passwd
+11- man passwd && cat /etc/passwd
+12-man 5 passwd
+13-man -K passwd
 
 --------------------------------------------------
 Lab2
