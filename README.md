@@ -308,6 +308,25 @@ ls -i /etc/hosts
 ![photo_5987695585202912963_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/bada2d7d-1367-4c63-ae53-fd3a7aaf8afb)
 
 
+10-cp /etc/passwd ~/passwd_backup
+diff /etc/passwd ~/passwd_backup
+cmp /etc/passwd ~/passwd_backup
+
+vi ~/passwd_backup
+diff /etc/passwd ~/passwd_backup
+cmp /etc/passwd ~/passwd_backup
+
+![photo_5987955207386021503_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/34b98ecc-6e6b-4778-b544-b424e867487f)
+
+
+11-sudo ln -s /etc/passwd /boot/passwd_link
+ls -l /boot
+
+![photo_5987955207386021509_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/125779d2-9c79-4852-84bb-d2e075cd2dee)
+
+
+
+
 
 
 
