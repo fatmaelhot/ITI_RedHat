@@ -220,6 +220,10 @@ echo "Welcome, $(whoami)! Today is $(date)"
 ![photo_5987955207386021491_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/1646d7e3-4319-41f8-b9e9-31fb8fd0a6e3)
 
 
+![photo_5987955207386021500_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/c16c5b37-6338-4423-8031-d6121977cd01)
+
+
+
 10-    
 enter echo \ and press Enter.
     The shell sees the backslash as an escape character, so it expects that the command is not complete and waits for more input.
