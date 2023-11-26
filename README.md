@@ -246,6 +246,72 @@ gzip -v file1
 zip -v file2
 
 
+![photo_5987695585202912951_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/afd55976-3cf3-4823-a41f-36058c2ce0a9)
+
+file extention:
+The compress command uses the .Z file extension for compressed files.
+The gzip command uses the .gz file extension for compressed files.
+The zip command creates a zip archive with the specified file(s) and uses the .zip extension.
+
+-gzip is more widely supported and used on various platforms.
+compress is less common today and may not be available by default on some systems.
+-gzip has additional features, such as the ability to compress multiple files into a single archive (tar can be used in conjunction with gzip for this purpose).
+
+
+2-zcat example.txt.gz
+
+![photo_5987695585202912953_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/032d21de-5a53-4c93-9c8f-6e046885d0da)
+
+3-tar -cvf ~/etc *
+
+![photo_5987695585202912954_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/85d9662b-9178-432b-acba-36547ef004b7)
+
+
+4-find ~/ -type f -mtime -2
+
+![photo_5987695585202912955_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/2a469c72-1131-4e8a-ad9e-9f06cb65fa76)
+
+
+5-sudo find /etc -type f -user root
+
+![photo_5987695585202912958_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/e26bdcd0-d21d-4bc1-8aef-e7b9dd3b1f97)
+
+
+6-find ~/ -type d
+
+![photo_5987695585202912960_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/7c0e3f56-b454-4170-be7c-c4ff23448680)
+
+
+7- sudo find / -type f -name ".profile"
+
+![photo_5987695585202912961_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/cef49f34-6631-47b0-b0e1-c5bdae0bb97f)
+
+8- file /etc/passwd
+file /dev/pts/0
+file /etc
+file /dev/sda
+
+![photo_5987955207386021496_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/8dbc6b97-ed74-4636-b898-41d962b25a93)
+
+
+9- ls -i /
+ls -i /etc
+ls -i /etc/hosts
+
+![photo_5987695585202912962_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/6fb8dffb-08ee-4d20-a0ab-ed021a6a37da)
+
+
+![photo_5987695585202912963_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/bada2d7d-1367-4c63-ae53-fd3a7aaf8afb)
+
+
+
+
+
+
+
+
+
+
 
 
 
