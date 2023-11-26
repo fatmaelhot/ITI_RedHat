@@ -147,6 +147,97 @@ touch test
 ![photo_5987695585202912782_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/63fd8480-f323-44ab-b781-2fe0f1107d63)
 
 ----------------------------------------------------------------------
+
+Lab3
+-----------
+1- vi mycv
+
+![photo_5987955207386021479_m](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/456e9062-385a-49ef-b1bc-4638105af8e8)
+
+
+![photo_5987955207386021483_m](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/da029be5-bd95-4ceb-b60e-9f75fcb58cd4)
+
+2- a. Move the cursor down one line at a time:
+
+    Press j
+
+b. Move the cursor up one line at a time:
+
+    Press k
+
+c. Search for the word "age":
+
+    Type /age and press Enter
+
+d. Step to line 5:
+
+    Type :5 and press Enter
+
+e. Delete the line you are on and line 5:
+
+    Type dd to delete the current line
+    Type :5 and press Enter to move to line 5
+    Type dd to delete line 5
+
+f. Step to the end of the line and change to writing mode in one step:
+
+    Press $ to move to the end of the line
+    Press A to enter insert mode at the end of the line
+    
+3-cat /etc/shells 
+
+![photo_5987955207386021480_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/93ae7912-8d5b-4bc4-81cc-09340e023f79)
+
+
+4-env
+
+![photo_5987955207386021484_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/00192704-c53b-4957-b19c-133f5529e0f2)
+
+
+5-printenv
+
+![photo_5987955207386021485_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/3ebdbbae-098e-4396-9d4c-32eb23472f26)
+
+
+6- echo $HOME
+
+![photo_5987955207386021486_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/9c430d24-dcde-49e7-9c4d-d5fae275be3d)
+
+
+7-echo $SHELL
+
+![photo_5987955207386021487_m](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/864057ff-393b-4639-a8be-1f958cfb6552)
+
+8-whereis sh
+whereis ksh
+whereis bash
+
+![photo_5987955207386021488_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/060f32d6-056f-4aee-86c8-96a0c2f162d4)
+
+9-nano ~/.bashrc
+echo "Welcome, $(whoami)! Today is $(date)"
+
+![photo_5987955207386021491_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/1646d7e3-4319-41f8-b9e9-31fb8fd0a6e3)
+
+
+10-    
+enter echo \ and press Enter.
+    The shell sees the backslash as an escape character, so it expects that the command is not complete and waits for more input.
+    The shell shows a continuation prompt, which is often >, indicating that it's waiting for additional input to complete the command.
+
+So, the continuation prompt (>) is telling you that the command you entered is not yet complete, and the shell is waiting for more input.
+
+To change the continuation prompt from > to :, you can use the PS2 variable. This variable controls the secondary prompt (the continuation prompt). You can set it in your shell configuration file, such as ~/.bashrc. 
+
+11-alias ls="ls -l"
+
+![photo_5987955207386021492_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/64fb528a-cdf0-414f-8851-63eae6318ae9)
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
 Lab 5
 -------
 
