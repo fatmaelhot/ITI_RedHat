@@ -326,6 +326,15 @@ ls -l /boot
 
 
 
+12- sudo ln /etc/passwd /boot/passwd_link
+the /boot directory is on a different partition, you'll likely encounter an error message indicating that hard links across file
+systems are not allowed.
+
+![photo_5987955207386021511_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/cbb9a8eb-aed9-459d-8cb0-7591a6899fff)
+
+
+
+
 
 
 
