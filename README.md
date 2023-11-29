@@ -1,3 +1,5 @@
+RedHat
+-------------------------------------------------------------------------
 LAP 1
 -----------------------------------------------------------
 2-cat: scroll off and display the end of pages
@@ -331,6 +333,32 @@ the /boot directory is on a different partition, you'll likely encounter an erro
 systems are not allowed.
 
 ![photo_5987955207386021511_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/cbb9a8eb-aed9-459d-8cb0-7591a6899fff)
+
+
+
+ShellScript
+------------------------
+Lap1
+-----
+#sed
+
+1-sed 'lp/p' /etc/passwd
+
+2-sed -e '3d' -e '1,$p' /etc/passwd
+3-sed -e '$d' -e '1,$p' /etc/passwd
+4-sed -e '/lp/d' -e '1,$p' /etc/passwd
+5-sed 's/lp/mylp' /etc/passwd
+
+#awk
+
+1-awk -F: '{print $5}' /etc/passwd
+2-awk -F: '{print $1,$5,$6}' /etc/passwd
+3-awk -F: '{ if($3>500) print $1,$3,$5}' /etc/passwd
+4-awk -F: '{ if($3==500) print $1,$3,$5}' /etc/passwd
+5-awk -F: '{ if(NR>=5&&NR<=15) print NR,$0}' /etc/passwd
+6-awk -F: '{for(i=1;i<=NF;i++) {if($i=="lp") $i="mylp"} print ;}' file1
+7-awk -F: 'BEGIN {max=0} {if ($3>max) {max=$3; maxline=$0}} END{print maxline}' file1
+8-awk -F: 'BEGIN {sum=0} {sum+=$3} END {print sum}' file1
 
 
 
