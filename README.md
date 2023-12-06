@@ -344,21 +344,79 @@ Lap1
 
 1-sed 'lp/p' /etc/passwd
 
+![photo_5994743665190354553_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/88231d29-0f03-47f5-aaa5-9bd8df4da00e)
+
+
+
 2-sed -e '3d' -e '1,$p' /etc/passwd
+
+![photo_5994743665190354543_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/bd95442a-3ca5-4083-b285-9d719dd0eb58)
+
+
 3-sed -e '$d' -e '1,$p' /etc/passwd
+
+![photo_5994743665190354544_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/1f3c80ef-d5fa-466e-b600-2124edaa1324)
+
+
 4-sed -e '/lp/d' -e '1,$p' /etc/passwd
+
+
+![photo_5994743665190354564_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/99f49fb9-5945-48b9-bf8c-b9334aed987d)
+
+
 5-sed 's/lp/mylp' /etc/passwd
+
+
+![photo_5994743665190354549_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/d112431c-5f39-4572-9ea8-61db94e052c9)
+
+
 
 #awk
 
 1-awk -F: '{print $5}' /etc/passwd
+
+
+![photo_5994743665190354572_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/b6bf6dd6-0ecb-4724-b397-883a3c7f31d3)
+
+
 2-awk -F: '{print $1,$5,$6}' /etc/passwd
+
+![photo_5994743665190354575_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/18b3f513-6b6d-4409-8a18-d7e24e1e1f69)
+
+
 3-awk -F: '{ if($3>500) print $1,$3,$5}' /etc/passwd
+
+
+![photo_5994743665190354578_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/c1c3bddb-56ba-4555-9589-1a0b6fd9b4a6)
+
+
 4-awk -F: '{ if($3==500) print $1,$3,$5}' /etc/passwd
+
+
+![photo_5994743665190354579_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/ce0ae42b-24ff-4359-9b00-7734310d3dda)
+
+
 5-awk -F: '{ if(NR>=5&&NR<=15) print NR,$0}' /etc/passwd
+
+
+![photo_5994743665190354598_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/914745ae-27f6-4705-94a2-54f8465630e6)
+
+
 6-awk -F: '{for(i=1;i<=NF;i++) {if($i=="lp") $i="mylp"} print ;}' file1
+
+![photo_5994743665190354604_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/d98aedc2-6c80-44db-bd81-f59405179c3e)
+
+
 7-awk -F: 'BEGIN {max=0} {if ($3>max) {max=$3; maxline=$0}} END{print maxline}' file1
+
+
+![photo_5994743665190354620_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/d99eedd0-8937-4557-a56f-4f4c84aeb584)
+
+
 8-awk -F: 'BEGIN {sum=0} {sum+=$3} END {print sum}' file1
+
+![photo_5994743665190354626_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/bcda9eff-8c4b-41a8-92af-36372a1db69d)
+
 
 
 
