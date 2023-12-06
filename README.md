@@ -418,12 +418,45 @@ Lap1
 ![photo_5994743665190354626_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/bcda9eff-8c4b-41a8-92af-36372a1db69d)
 
 
+---------------------------------------------------------------------------------------------------------------------------
+Lab3
+---------------
+1- ![photo_5996948924738419950_w](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/bb2aef5e-092a-40c2-b6eb-265b8d9ca939)
+
+
+2-![photo_6017092385781169631_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/1b3722ca-0553-47ec-aff2-fa6eca2f5935)
+
+
+![photo_6017092385781169634_m](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/0c8a122f-f8a9-44e8-9fb8-4bef1c814159)
+
+
+3- ![photo_6017092385781169676_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/f964e0c2-c7b4-438f-8998-6d3043943d5d)
+
+![photo_6017092385781169677_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/7e6b2017-f1d8-4bf8-b35f-6c84ff2bbb68)
+
+
+4- 
+![photo_6017092385781169682_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/a08c0b74-7cbd-4fca-b06f-92f8e37b4342)
+
+![photo_6017092385781169683_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/380f4534-692a-450d-b2c6-cfaf2b68bb70)
+
+
+5- 
+![photo_6017092385781169701_w](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/478872f9-19ae-4090-85db-c131019f2d16)
+
+
+![photo_6017092385781169702_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/3ea718fd-7ddf-4d43-9144-3f33bdfb8814)
+
+
+6-![photo_6017092385781169705_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/ecf5103b-8232-4165-99b5-c368dd9853d5)
 
 
 
+![photo_6017092385781169706_y](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/6bda37a4-1f1b-43b9-8257-a3c2b850e1d8)
 
 
 
+![photo_6017092385781169707_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/f6a9436a-73d8-493a-bd1a-a5db145e83cf)
 
 
 
