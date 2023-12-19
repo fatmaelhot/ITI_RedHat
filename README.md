@@ -607,3 +607,66 @@ Q11
 ![Screenshot from 2023-12-19 11-35-22](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/7c791231-3166-4936-96dd-ef2916680188)
 
 
+
+
+---------------------------------------------------------------------------------
+Admin2
+-------
+Lab6
+------
+Q1:Use systemctl to view the status of all the system services.
+---
+
+
+![Screenshot from 2023-12-19 12-29-56](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/c7ce318f-6086-4998-830c-db5902b6832a)
+
+
+
+
+Q2:Change the default run level back to multi-user.target and reboot.
+---
+sudo systemctl set-default multi-user.target
+reboot .target
+
+
+![Screenshot from 2023-12-19 14-42-34](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/9e56a3ac-2d16-4f79-9f25-39666920157d)
+
+
+
+Q3:Send mail to the root user.
+----
+
+
+![Screenshot from 2023-12-19 14-55-11](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/5192a564-b403-47a7-846f-9cf71845a461)
+
+
+Q4:Verify that you have received this mail.
+---
+
+
+![Screenshot from 2023-12-19 14-58-56](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/8ece5936-15c4-429a-96e5-ce3e766a3505)
+
+
+
+Q5:Use  systemctl utility to stop postfix service
+----
+
+
+![Screenshot from 2023-12-19 15-01-54](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/7c93d514-c555-4ed5-ac8b-4f9b91d55546)
+
+
+
+Q6:Send mail again to the root user.
+------------
+
+
+![Screenshot from 2023-12-19 15-07-04](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/bff4e8d8-4ee1-4bba-a66c-f02c6211a5f3)
+
+
+
+Q7:Verify that you have received this mail.
+--------
+
+
+![Screenshot from 2023-12-19 15-09-01](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/ab012814-ddf2-4f83-bb1a-b3b9da150ebb)
+
