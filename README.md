@@ -563,3 +563,47 @@ Q6
 
 
 ![photo_6019141214030380635_x](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/86dc383e-8fef-4ad2-89b8-0515e43804fd)
+
+
+Q7
+-------
+
+
+![Screenshot from 2023-12-19 11-16-50](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/da80cc6d-019b-4001-95a3-6d2bbaa58420)
+
+
+
+Q8
+-------
+
+
+![Screenshot from 2023-12-19 11-21-31](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/1d4adb07-e568-4423-8b0f-74c5ef26f15e)
+
+
+
+Q9
+--------
+
+
+
+![Screenshot from 2023-12-19 11-25-35](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/73f34995-3de5-4934-a162-3b42508a7a5f)
+
+
+
+Q10
+-------
+
+
+
+![Screenshot from 2023-12-19 11-30-22](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/87b37a30-5a3d-44ac-a725-a7c03fd74fc7)
+
+
+
+Q11
+--------
+
+
+
+![Screenshot from 2023-12-19 11-35-22](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/7c791231-3166-4936-96dd-ef2916680188)
+
+
