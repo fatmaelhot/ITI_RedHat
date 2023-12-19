@@ -626,6 +626,8 @@ Q1:Use systemctl to view the status of all the system services.
 Q2:Change the default run level back to multi-user.target and reboot.
 ---
 sudo systemctl set-default multi-user.target
+
+
 reboot .target
 
 
@@ -669,4 +671,16 @@ Q7:Verify that you have received this mail.
 
 
 ![Screenshot from 2023-12-19 15-09-01](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/ab012814-ddf2-4f83-bb1a-b3b9da150ebb)
+
+
+
+Q8:Use systemctl utility to start postfix service
+---------------
+
+
+![Screenshot from 2023-12-19 15-12-06](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/fabeb52c-0be7-40c8-9c3a-3fe953e665ca)
+
+
+
+
 
