@@ -682,5 +682,63 @@ Q8:Use systemctl utility to start postfix service
 
 
 
+Q9:Verify that you have received this mail
+---------------
+
+
+![Screenshot from 2023-12-20 08-47-54](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/b34db5d2-e9ea-434e-995e-f560ffd5e76c)
+
+
+
+Q10:Edit in the GRUB2 configuration file and change the timeout variable equal 20 seconds.
+------------------
+
+
+![Screenshot from 2023-12-20 09-05-01](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/d4979662-aed2-4bf7-a89f-9e3b7a208cf2)
+
+
+
+![Screenshot from 2023-12-20 09-05-22](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/f7de3acf-822c-4229-8316-47a4da6bc573)
+
+
+
+Q11: Edit in the GRUB2 configuration file and change your default operating system
+------------------------
+
+
+![Screenshot from 2023-12-20 09-10-29](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/b2db5f6b-a14b-4ff5-8653-b0fb39954268)
+
+
+
+Q12:You want to know some information about the status of the system every ten minutes today between the hours of  8:00 AM and 5:00 PM. to help investigate some performance issues you have been having. You suspect it might be memory related and want to keep an eye on those resources.
+-----------------
+
+
+
+Q17:Attempt to run the command gnuplot. You should find that it is not
+installed.
+-------------------
+
+
+![Screenshot from 2023-12-20 09-35-27](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/d974d522-8174-4cb3-9e12-4ae06905fb50)
+
+
+
+
+Q18:Search for the plotting packages.
+------------
+
+
+
+![Screenshot from 2023-12-20 09-37-44](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/0c7c8538-2659-43a7-9bf3-e6ee4c98fb6b)
+
+
+
+
+Q19:Find out more information about the gunuplot package.
+-------------
+
+
+![Screenshot from 2023-12-20 09-41-55](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/837b705e-5ef6-4c2d-bc7b-060259ed0e3d)
 
 
