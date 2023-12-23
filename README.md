@@ -974,5 +974,46 @@ while allowing user5 only to use fdisk command.
 
 
 
+Q11:Login by user3 and try to unmount /boot.
+-----------
+
+
+
+![Screenshot from 2023-12-24 01-34-16](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/3fe2b8dc-5095-4e80-8872-e7f6541f21de)
+
+
+
+
+Q12:Login by user4 and remount /boot. Also try to view the partition table using fdisk.
+------------------
+
+
+
+![Screenshot from 2023-12-24 01-34-42](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/0b575bcf-715d-4a18-acc4-f4aafe470b09)
+
+
+
+
+![Screenshot from 2023-12-24 01-37-37](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/c2389e00-ecdb-43bd-a0b2-a4d3e4b0ffed)
+
+
+
+
+Q13:Create a directory with permissions rwxrwx---, grant a second group (sales) r-x permissions
+-------------------------
+
+
+
+![Screenshot from 2023-12-24 01-42-20](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/9b5d6995-cd91-4183-9546-b0a7a7b3bcee)
+
+
+
+
+Q14:create a file on that directory and grant read and write to a second group (sales)
+---------------------
+
+
+
+![Screenshot from 2023-12-24 01-46-43](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/8b7ccd1d-696c-4f79-91a8-ef9eb51cea80)
 
 
