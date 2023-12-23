@@ -910,5 +910,69 @@ Q5:Create a directory called /depts with a sales, hr, and web directory within t
 
 
 
+![Screenshot from 2023-12-24 01-18-34](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/932839c0-8608-4da2-a02e-526fb373923b)
+
+
+
+Q6:Using the chgrp command, set the group ownership of each directory to the group with the
+matching name
+---------------------
+
+
+
+![Screenshot from 2023-12-24 01-20-38](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/99dd020f-d975-495f-b8f5-f1b22c6946c1)
+
+
+
+
+Q7:Set the permissions on the /depts directory to 755, and each subdirectory to 770
+-----------------------
+
+
+
+![Screenshot from 2023-12-24 01-22-37](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/1b328486-379c-4193-8e1a-09ca13e583cb)
+
+
+
+Q8:Set the set-gid bit on each departmental directory
+----------------------
+
+
+
+![Screenshot from 2023-12-24 01-24-30](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/03318916-98c4-4680-9e95-6fe9f38c4ae3)
+
+
+
+Q9:Use the su command to switch to the user2 account and attempt the following commands:
+touch /depts/sales/user2.txt
+touch /depts/hr/ user2.txt
+touch /depts/web/ user2.txt
+Which of these commands succeeded and which failed? What is the group ownership of the files
+that were created?
+------------------------
+
+
+
+
+![Screenshot from 2023-12-24 01-28-50](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/09d1fd4d-2e0b-4ae0-b063-da61e4116976)
+
+
+
+
+![Screenshot from 2023-12-24 01-29-38](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/08b72d3f-4904-413b-8b95-a147474de279)
+
+
+
+
+Q10:Configure sudoers file to allow user3 and user4 to use /bin/mount and /bin/umount commands,
+while allowing user5 only to use fdisk command.
+--------------------
+
+
+![Screenshot from 2023-12-24 01-32-18](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/676a3a4c-30ae-4804-93db-ff199e12570e)
+
+
+
+
 
 
