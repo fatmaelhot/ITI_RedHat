@@ -861,4 +861,54 @@ user3, user4, user5, user6 and user7. Remember to give each user a password.
 -----------------
 
 
+![Screenshot from 2023-12-24 01-02-09](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/1223ed84-90e4-466a-a1d7-4ecaa3da94ea)
+
+
+
+
+Q2:Using the groupadd command, add the following groups to your system.
+Group GID
+sales 10000
+hr 10001
+web 10002
+Why should you set GID in this manner instead of allowing the system to set the GID by default?
+----------------
+
+
+
+![Screenshot from 2023-12-24 01-06-04](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/3a61f50b-d73d-4176-9831-950454052042)
+
+
+
+
+
+
+Q3:Using the usermod command to add user1 and user2 to the sales secondary group, user3 and user4
+to the hr secondary group. User5 and user6 to web secondary group. And add user7 to all
+secondary groups
+------------------------------------
+
+
+
+![Screenshot from 2023-12-24 01-10-44](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/b31f8578-ac41-4ee8-909a-cf15a3abfc55)
+
+
+
+Q4:Login as each user and use id command to verify that they are in the appropriate groups. How else
+might you verify this information?
+----------------------
+
+
+
+
+![Screenshot from 2023-12-24 01-15-56](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/30d5bb7d-5d60-4108-98d9-d6e44b8d2dbf)
+
+
+
+Q5:Create a directory called /depts with a sales, hr, and web directory within the /depts directory.
+-------------------
+
+
+
+
 
