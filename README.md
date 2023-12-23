@@ -715,6 +715,42 @@ Q12:You want to know some information about the status of the system every ten m
 
 
 
+![Screenshot from 2023-12-24 00-23-20](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/5fc11df1-d4a7-4c4a-bb0f-584086fe94b2)
+
+
+
+
+Q13:Use mail as the root user to check for e-mail from the cron jobs you have scheduled.
+-------------
+
+
+
+![Screenshot from 2023-12-24 00-29-32](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/5317551f-5d81-4174-be99-e522c561bddc)
+
+
+
+
+Q14:How could you send the output from these cron jobs to another e-mail address (the manager user)?
+--------------------
+
+
+
+![Screenshot from 2023-12-24 00-33-13](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/dfffc388-a2be-4ffd-9bb7-426e3d62c749)
+
+
+
+
+Q15:Use mail as the manager user to check for e-mail from the cron jobs you have scheduled.
+------------------------
+
+
+
+![Screenshot from 2023-12-24 00-35-33](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/3a629c99-77ca-4dd0-8b86-86fd9dc1f312)
+
+
+
+
+
 Q17:Attempt to run the command gnuplot. You should find that it is not
 installed.
 -------------------
@@ -740,5 +776,89 @@ Q19:Find out more information about the gunuplot package.
 
 
 ![Screenshot from 2023-12-20 09-41-55](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/837b705e-5ef6-4c2d-bc7b-060259ed0e3d)
+
+
+
+Q20:Install the gnuplot package.
+-------------
+
+
+
+![Screenshot from 2023-12-24 00-42-42](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/c8e940ae-559e-41a4-bdb5-11d076a4cd07)
+
+
+
+Q21:Attempt to remove the gnuplot package, but say no
+How many packages would be removed
+------------------
+
+
+
+
+![Screenshot from 2023-12-24 00-44-58](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/beab5c67-a44e-47da-877e-5f9d7aeef8d1)
+
+
+
+
+
+Q22:List all installed packages in your system.
+-------------------
+
+
+
+
+![Screenshot from 2023-12-24 00-47-10](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/43b60c23-a9af-45bc-bc08-32e8999d9885)
+
+
+
+
+Q23:View the files in the initscripts package
+------------------
+
+
+![Screenshot from 2023-12-24 00-49-55](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/2599bb34-e924-433d-956c-f0f5a107a54b)
+
+
+
+
+Q24:Get general information about bash rpm.
+----------------
+
+
+
+![Screenshot from 2023-12-24 00-51-07](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/dab9afa0-d209-4952-89b4-b6dcd8b0248d)
+
+
+
+Q25:Have the files from the pam package changed since it was
+installed.
+-----------------
+
+
+
+![Screenshot from 2023-12-24 00-52-58](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/8a3b0938-5c29-4da0-aa88-dc8ba7855be3)
+
+
+
+
+Q26:Which installed packages have gnome in their names?
+-----------------
+
+
+
+![Screenshot from 2023-12-24 00-54-53](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/531a56fa-fdcc-4d35-9592-92c793afa0eb)
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+Lab 7
+-------
+
+Q1:Using the useradd command, add accounts for the following users in your system: user1, user2,
+user3, user4, user5, user6 and user7. Remember to give each user a password.
+-----------------
+
 
 
