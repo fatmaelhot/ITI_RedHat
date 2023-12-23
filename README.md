@@ -1017,3 +1017,14 @@ Q14:create a file on that directory and grant read and write to a second group (
 ![Screenshot from 2023-12-24 01-46-43](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/8b7ccd1d-696c-4f79-91a8-ef9eb51cea80)
 
 
+
+
+Q15:set the the owning group as the owning group of any newly created file in that directory.
+-----------------------
+
+
+![Screenshot from 2023-12-24 01-48-20](https://github.com/fatmaelhot/ITI_RedHat/assets/128849238/096931c1-9af2-4be4-9bf6-86150f099013)
+
+
+
+
